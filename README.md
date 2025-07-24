@@ -7,8 +7,6 @@ A passionate iOS developer from Nizhny Novgorod.
 
 I am currently studying iOS development at Practicum and, in addition to the course, I practice by creating various pet projects.
 
-You can also visit my site for a visual showcase of [💻 my projects:](https://artkriukov.github.io/portfolio/#about)
-
 ### ⚠️ My technologies stack:
 
 | **Category**              | **Technologies**                                                                                                                                             |
